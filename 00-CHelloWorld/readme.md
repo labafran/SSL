@@ -1,10 +1,10 @@
-#TP 0 - "Hello, World!" en C
+# TP 0 - "Hello, World!" en C
 
 **Alumno:** Labayen, Franco
 
 **Legajo:** 209.625-0
 
-##Herramientas y Estándares
+## Herramientas y Estándares
 
 **Compilador:** GCC
 
